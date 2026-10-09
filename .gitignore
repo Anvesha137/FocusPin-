@@ -1,0 +1,15 @@
+# Python virtualenvs + bytecode
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Local packaging
+build/
+dist/
+*.spec
+# Local debugging
+*.log
+# Project is intentionally local-first: never commit task data
+state.json
+*.backup.json
+focuspin-v2-beep.wav

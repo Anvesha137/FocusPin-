@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="690" viewBox="0 0 1180 690" role="img" aria-label="FocusPin dashboard light minimalist design preview">
+<rect width="1180" height="690" rx="30" fill="#F0E7EB"/>
+<rect x="35" y="32" width="1110" height="626" rx="27" fill="#FCFAF8" stroke="#E7D8E0" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="70" y="87" font-size="30" fill="#503A4A" font-weight="760">focuspin.</text>
+<text x="71" y="110" font-size="13" fill="#9E8997">your little corner of productivity ✿</text>
+<rect x="802" y="61" width="112" height="38" rx="12" fill="#F6EDF2"/><text x="822" y="85" fill="#795B6D" font-size="14">Mini view</text>
+<rect x="923" y="61" width="86" height="38" rx="12" fill="#F6EDF2"/><text x="941" y="85" fill="#795B6D" font-size="14">Settings</text>
+<rect x="1017" y="61" width="98" height="38" rx="12" fill="#8F6981"/><text x="1033" y="85" fill="white" font-size="14" font-weight="700">+ New task</text>
+<text x="70" y="163" font-size="26" fill="#533D4D" font-weight="680">Small steps, big progress.</text>
+<g fill="white" stroke="#EADFE4" stroke-width="1.2">
+<rect x="70" y="186" width="248" height="111" rx="16"/><rect x="332" y="186" width="248" height="111" rx="16"/><rect x="594" y="186" width="248" height="111" rx="16"/><rect x="856" y="186" width="259" height="111" rx="16"/>
+</g>
+<g fill="#8B7A85" font-size="14"><text x="92" y="214">To do</text><text x="354" y="214">Done today</text><text x="616" y="214">Overdue</text><text x="878" y="214">Focus / week</text></g>
+<g fill="#684E60" font-size="39" font-weight="700"><text x="91" y="268">05</text><text x="353" y="268">12</text><text x="615" y="268">02</text><text x="877" y="268">125</text></g>
+<rect x="70" y="317" width="1045" height="64" rx="17" fill="#F6EDF2" stroke="#E9DAE3"/>
+<text x="91" y="356" fill="#705B6B" font-size="16">☕  Pick a task to focus on</text>
+<rect x="835" y="328" width="100" height="42" rx="11" fill="white" stroke="#E8D6DF"/><text x="859" y="354" font-size="14" fill="#7A6474">25 min</text>
+<rect x="946" y="328" width="149" height="42" rx="11" fill="#8F6981"/><text x="977" y="354" font-size="14" font-weight="700" fill="white">Start focus</text>
+<rect x="70" y="401" width="650" height="45" rx="13" fill="white" stroke="#E9DEE4"/><text x="92" y="430" font-size="15" fill="#A48F9C">⌕  Search your tasks...</text>
+<rect x="733" y="401" width="200" height="45" rx="13" fill="white" stroke="#E9DEE4"/><text x="752" y="430" font-size="14" fill="#8B7383">All categories</text>
+<rect x="946" y="401" width="169" height="45" rx="13" fill="white" stroke="#E9DEE4"/><text x="966" y="430" font-size="14" fill="#8B7383">All priorities</text>
+<text x="74" y="482" fill="#76556C" font-size="16" font-weight="700">To do  (5)</text><text x="223" y="482" fill="#9B8994" font-size="16">Done  (12)</text><rect x="70" y="493" width="127" height="3" rx="1.5" fill="#A87595"/>
+<g fill="white" stroke="#F0E6EB"><rect x="70" y="509" width="1045" height="62" rx="14"/><rect x="70" y="583" width="1045" height="51" rx="14"/></g>
+<rect x="91" y="528" width="20" height="20" rx="5" fill="none" stroke="#BD96AD" stroke-width="2"/>
+<text x="126" y="532" fill="#53404C" font-size="15.5" font-weight="650">Finish the new dashboard</text>
+<text x="126" y="553" fill="#998592" font-size="12">Work   ·   ● High   ·   Due Today, 4:00 PM</text>
+<rect x="971" y="518" width="75" height="42" rx="12" fill="#F5EEF2"/><text x="991" y="545" fill="#806277" font-size="14">Focus</text>
+<text x="1072" y="545" fill="#96798A" font-size="23">···</text>
+<rect x="91" y="600" width="20" height="20" rx="5" fill="none" stroke="#BD96AD" stroke-width="2"/>
+<text x="126" y="618" fill="#53404C" font-size="15.5" font-weight="650">Plan the next reel</text>
+</g></svg>
